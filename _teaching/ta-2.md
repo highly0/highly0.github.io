@@ -1,7 +1,7 @@
 ---
-title: "Undergraduate Teaching Assistant, Object Oriented Programming"
+title: "Undergraduate Teaching Assistant"
 collection: teaching
-type: "UG TA"
+type: "Introduction to Data Science"
 permalink: /teaching/ta-2
 venue: "University of Maryland, Department of Computer Science"
 date: 2020-01-01
