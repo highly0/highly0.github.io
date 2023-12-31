@@ -1,7 +1,7 @@
 ---
 title: "Computer Science Instructor"
 collection: teaching
-type: "additional teaching"
+type: "Introduction to Python & Programming"
 permalink: /teaching/geeklama
 venue: "Geeklama"
 date: 2022-01-01
