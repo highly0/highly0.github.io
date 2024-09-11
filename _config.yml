@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hai Le"
   avatar           : "personal-profile.jpg"
-  bio              : "NLP Research Engineer"
-  location         : "Moscow, Russia"
-  employer         : "Sber AI, Huawei and Skoltech"
+  bio              : "Applied Research Engineer"
+  location         : "Hanoi, Vietnam"
+  employer         : "VinAI Research"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=DJOQWz4AAAAJ&hl=en"
-  email            : "hai.le@skol.tech"
+  email            : "v.hailt37@vinai.io"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

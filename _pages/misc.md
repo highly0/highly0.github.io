@@ -5,5 +5,9 @@ permalink: /misc/
 author_profile: true
 ---
 
-<img style="float: right;" src="/images/pwl.jpeg" width="50%" height="50%">
-In my free time, I'm a competitive powerlifter! 🏋️  I'm currently chasing 400 DOTS. I currently total 537.5kg at 77-78kg body weight (S: 185kg, B: 137.5kg, D:215kg). My dream is to one day compete in the international stage (shoot for the moon, you'll land on the stars am I right?)
+In my free time, I'm a *competitive powerlifter*! 🏋️  I'm currently chasing 400 DOTS. I currently total 565kg at 80.4kg body weight (S: 190kg, B: 145kg, D:240kg). Along my professional ambition, my dream is to one day compete in the international stage (shoot for the moon, you'll land on the stars am I right?)
+
+![image alt >](/images/pwl.jpeg)
+![image alt <](/images/pwl_2.jpg)
+![image alt <](/images/pwl_3.jpg)
+
